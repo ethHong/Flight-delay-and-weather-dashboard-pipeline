@@ -1,6 +1,7 @@
 ---
 
-Project by : **Anas Alanqar ⋅ Emily Oh ⋅ Ethan Hong ⋅ Suna Lee ⋅ Jiwon Hur ⋅ Juan Aldunate** (UCLA MSBA '25')
+This repository archives the collaborative project by : 
+**Anas Alanqar ⋅ Emily Oh ⋅ Ethan Hong ⋅ Suna Lee ⋅ Jiwon Hur ⋅ Juan Aldunate** (UCLA MSBA '25')
 
 ### TL;DR
 
