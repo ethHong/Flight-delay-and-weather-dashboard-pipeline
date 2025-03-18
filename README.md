@@ -20,7 +20,7 @@ This repository archives the collaborative project by :
 
 ## Pipeline Overview
 
-![Image](https://github.com/user-attachments/assets/5071c347-f966-485c-91ab-df7ec0d82aaf)
+![Image](https://github.com/user-attachments/assets/ecba70a8-e7f7-41fe-9a77-69952b765d22)
 
 * run_pipeloine.sh will run entire pipeline. 
 * Each of the process are encapsulated in functions, to make pipeline more atomic. 
