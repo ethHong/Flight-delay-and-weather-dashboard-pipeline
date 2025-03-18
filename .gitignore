@@ -1,0 +1,23 @@
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+.DS_Store
+
+*.csv
+!airport_whitelist.csv
+!codes_to_carrier.csv
+*.parquet
+*.json
+*.ipynb
+*.zip
+*.crc
+*.parquet
+*_SUCCESS
+*.txt

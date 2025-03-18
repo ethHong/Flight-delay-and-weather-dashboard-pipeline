@@ -1,0 +1,141 @@
+ORIGIN,AIRPORT,WEATHER_NULL_RATIO,PASSENGERS,FREIGHT_TONS
+ATL,William B. Hartsfield Atlanta International,0.088226,38155126,145149
+DFW,Dallas/Fort Worth International,0.097497,30694774,171109
+DEN,Stapleton International,0.170599,29529451,103040
+ORD,Chicago O'Hare International,0.122146,26113502,204815
+LAX,Los Angeles International,0.024526,21874207,387495
+CLT,Charlotte Douglas International,0.074633,21373314,56747
+LAS,McCarran International,0.144359,19600869,35472
+MCO,Orlando International,0.068783,19205880,56459
+PHX,Phoenix Sky Harbor International,0.079484,18444422,107818
+SEA,Seattle/Tacoma International,0.07258,17997233,132454
+MIA,Miami International,0.064313,16611116,477123
+EWR,Newark Liberty International,0.12384,16438344,206023
+JFK,John F. Kennedy International,0.11043,16197440,177688
+IAH,George Bush Intercontinental Airport,0.075964,16051715,138442
+SFO,San Francisco International,0.029065,15234453,116006
+BOS,Logan International,0.101004,13559018,60422
+MSP,Minneapolis-St Paul International,0.175038,13464954,68659
+FLL,Fort Lauderdale-Hollywood International,0.044512,12196254,36049
+LGA,LaGuardia,0.099849,12090274,2317
+DTW,Detroit Metro Wayne County,0.13612,11787777,50805
+PHL,Philadelphia International,0.105727,11150090,146302
+SLC,Salt Lake City International,0.121974,10233134,57343
+BWI,Baltimore/Washington International,0.100176,9857904,87924
+DCA,Ronald Reagan Washington National,0.104926,9412494,404
+SAN,San Diego International Lindbergh Fl,0.023192,9252959,40690
+TPA,Tampa International,0.042198,8876713,32177
+BNA,Nashville International,0.072189,8781619,22508
+MDW,Chicago Midway International,0.123689,7777220,6296
+AUS,Austin - Bergstrom International,0.086207,7719476,50448
+IAD,Washington Dulles International,0.104332,7476634,53287
+HNL,Honolulu International,0.102321,6939137,217409
+DAL,Dallas Love Field,0.087376,6408662,5387
+PDX,Portland International,0.114236,6170179,87598
+STL,Lambert-St. Louis International,0.118198,5818049,29725
+RDU,Raleigh-Durham International,0.074166,5450834,27659
+SMF,Sacramento International,0.04732,4825034,37927
+MSY,Louis Armstrong New Orleans International,0.066614,4748772,18081
+MCI,Kansas City International,0.095696,4433702,46970
+SJC,San Jose International,0.044095,4155232,12671
+RSW,Southwest Florida International,0.060553,4041112,5888
+SNA,John Wayne Airport-Orange County,0.043492,3935443,9152
+IND,Indianapolis International,0.128932,3825249,340724
+SAT,San Antonio International,0.103291,3803680,38667
+OAK,Metropolitan Oakland International,0.048991,3798830,195280
+CLE,Cleveland-Hopkins International,0.116439,3715862,28408
+PIT,Pittsburgh International,0.16408,3573816,30573
+CVG,Cincinnati/Northern Kentucky International,0.112164,3345786,512559
+CMH,Port Columbus International,0.130415,3257603,1736
+PBI,Palm Beach International,0.070875,3070948,9449
+JAX,Jacksonville International,0.067102,2810677,23696
+OGG,Kahului Airport,0.09264,2472227,8752
+BUR,Hollywood-Burbank Midpoint,0.043398,2388149,13294
+BDL,Bradley International,0.069547,2388108,54138
+MKE,General Mitchell International,0.129036,2348836,21881
+CHS,Charleston International,0.082137,2339073,4828
+ANC,Anchorage International,0.14036,2072348,1271766
+ABQ,Albuquerque International Sunport,0.141849,1978549,17350
+OMA,Eppley Airfield,0.143524,1939315,17286
+BUF,Buffalo Niagara International,0.171569,1869359,10972
+ORF,Norfolk International,0.074094,1843202,6401
+RIC,Richmond International,0.055553,1820547,30946
+MEM,Memphis International,0.069566,1816619,1610324
+BOI,Boise Air Terminal,0.084698,1815954,17277
+SDF,Standiford Field,0.117899,1773278,1091771
+RNO,Reno/Tahoe International,0.148655,1772543,24340
+OKC,Will Rogers World,0.093715,1661929,11822
+SRQ,Sarasota/Bradenton Airport,0.067835,1660846,40
+GRR,Kent County,0.153873,1554426,13493
+GEG,Spokane International,0.122671,1549121,19179
+ELP,El Paso International,0.177513,1531522,32293
+LGB,Long Beach Daugherty Field,0.029878,1529111,6456
+SAV,Savannah/Hilton Head International,0.066299,1509046,3706
+KOA,Keahole,0.036075,1508787,17282
+PVD,Theodore Francis Green State,0.106273,1449119,3992
+TUS,Tucson International,0.110743,1438204,10287
+LIH,Lihue Airport,0.103443,1348505,8087
+TUL,Tulsa International,0.053836,1210375,19915
+TYS,McGhee Tyson,0.09573,1180874,10763
+BHM,Birmingham Airport,0.059223,1165537,7238
+DSM,Des Moines International,0.148849,1165385,10582
+SYR,Syracuse Hancock International,0.208318,1123807,13743
+ALB,Albany International,0.155321,1109224,7836
+BZN,Gallatin Field,0.147135,1057565,360
+SFB,Orlando Sanford International,0.062277,1055004,4
+PSP,Palm Springs International,0.101891,1040225,110
+GSP,Greenville-Spartanburg,0.053156,1039514,12492
+ROC,Rochester Monroe County,0.188119,984483,12801
+PIE,St. Petersburg-Clearwater International,0.139551,971829,42
+COS,Peterson Field,0.16848,937894,3747
+PWM,Portland International Jetport,0.083319,922061,2827
+AVL,Asheville Regional,0.087899,887922,0
+HPN,Westchester County,0.11061,850612,1
+MSN,Truax Field,0.109873,847823,4654
+XNA,Northwest Arkansas Regional,0.099049,820182,6
+FAT,Fresno Air Terminal,0.048235,817711,2875
+ECP,Northwest Florida Beaches International,0.108113,735972,0
+GSO,Piedmont Triad International,0.08947,726416,28258
+PGD,Charlotte County,0.121947,716150,0
+ICT,Wichita Mid-Continent,0.110876,659138,7932
+EUG,Mahlon Sweet Field,0.071026,609462,200
+HSV,Huntsville International-Carl T Jones Field,0.081075,596230,9589
+LEX,Blue Grass,0.095589,571613,8
+CID,Cedar Rapids Municipal,0.126477,567354,14573
+MAF,Midland Regional Air Trml,0.145478,564253,494
+EYW,Key West International,0.06069,546533,90
+MDT,Harrisburg International,0.100896,537325,20395
+SGF,Springfield-Branson National,0.086174,524917,4661
+ITO,Hilo International,0.153091,514176,5985
+FSD,Joe Foss Field,0.147457,514107,22176
+SBA,Santa Barbara Municipal,0.027089,508909,83
+BTV,Burlington International,0.130546,488273,1139
+CAE,Columbia Metropolitan,0.055447,477629,14075
+DAY,James M Cox/Dayton International,0.102566,461513,2663
+JAN,Allen C Thompson Field,0.055658,458555,2464
+MFE,McAllen Miller International,0.101918,451826,2905
+HRL,Valley International,0.068824,446035,8613
+HVN,Tweed New Haven,0.053996,419332,0
+FAI,Fairbanks International,0.147192,417745,3197
+LBB,Lubbock Regional,0.208174,411634,8121
+FCA,Glacier Park International,0.144003,410989,393
+FAR,Hector International,0.160241,407340,13911
+CHA,Lovell Field,0.075949,404524,4031
+MSO,Missoula International,0.117165,394221,363
+ACY,Atlantic City International,0.062173,383601,6
+MFR,Medford Jackson County,0.085912,374042,584
+TLH,Tallahassee Regional,0.067034,341247,2938
+BIL,Billings Logan International,0.117462,341019,11326
+PSC,Tri Cities,0.07722,340182,263
+ABE,Lehigh Valley International,0.101911,335528,43656
+SBN,Michiana Regional,0.118988,325171,3295
+GPT,Gulfport-Biloxi International,0.050721,315114,114
+RAP,Rapid City Regional,0.115779,313830,262
+TVC,Cherry Capital,0.14025,311438,13
+FWA,Fort Wayne Municipal,0.150838,309508,6446
+AMA,Amarillo International,0.224734,296842,19
+CAK,Akron-Canton Regional,0.141724,291110,20
+ASE,Aspen Pitkin County Sardy Field,0.163106,281669,0
+BGR,Bangor International,0.125287,279086,1134
+ROA,Roanoke Regional/Woodrum Field,0.104714,278343,3671
+RFD,Chicago/Rockford International,0.065967,99539,162750
