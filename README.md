@@ -13,14 +13,11 @@ This repository archives the collaborative project by :
 
 🔗[Tableau Dashboard Link](https://public.tableau.com/views/TeamProjectFlightDelayandWeatherDashboard/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Image](https://github.com/user-attachments/assets/2993ce43-1901-48cc-97aa-2eb53e274f98)
-![Image](https://github.com/user-attachments/assets/a042b87d-e589-4c39-8c58-cdecc381d08f)
 
 # About Pipeline
 
 ## Pipeline Overview
-
-![Image](https://github.com/user-attachments/assets/ecba70a8-e7f7-41fe-9a77-69952b765d22)
+![Image](https://github.com/user-attachments/assets/cf600fda-267d-4c44-9ce6-ed3c08cc3e4e)
 
 * run_pipeloine.sh will run entire pipeline. 
 * Each of the process are encapsulated in functions, to make pipeline more atomic. 
